@@ -35,7 +35,6 @@ This ensures **efficient water use** and eliminates the need for manual watering
 
 ---
 
-## 📂 Repository Structure
 
 ---
 
